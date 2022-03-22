@@ -9,7 +9,7 @@
   
   inputs.src-sim-0_1_7.flake = false;
   inputs.src-sim-0_1_7.owner = "ba0f3";
-  inputs.src-sim-0_1_7.ref   = "refs/tags/0.1.7";
+  inputs.src-sim-0_1_7.ref   = "0_1_7";
   inputs.src-sim-0_1_7.repo  = "sim.nim";
   inputs.src-sim-0_1_7.type  = "github";
   

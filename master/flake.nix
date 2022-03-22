@@ -9,7 +9,7 @@
   
   inputs.src-sim-master.flake = false;
   inputs.src-sim-master.owner = "ba0f3";
-  inputs.src-sim-master.ref   = "refs/heads/master";
+  inputs.src-sim-master.ref   = "master";
   inputs.src-sim-master.repo  = "sim.nim";
   inputs.src-sim-master.type  = "github";
   
